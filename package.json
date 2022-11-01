@@ -1,0 +1,22 @@
+{
+  "name": "access-token",
+  "version": "1.0.0",
+  "description": "shopify access token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcolon/shopify-access-token.git"
+  },
+  "keywords": [
+    "token"
+  ],
+  "author": "webcolon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcolon/shopify-access-token/issues"
+  },
+  "homepage": "https://github.com/webcolon/shopify-access-token#readme"
+}
