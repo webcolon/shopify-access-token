@@ -1,5 +1,5 @@
 {
-  "name": "access-token",
+  "name": "shopifyaccesstoken",
   "version": "1.0.0",
   "description": "shopify access token",
   "main": "index.js",
