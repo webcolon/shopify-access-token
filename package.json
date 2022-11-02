@@ -1,5 +1,5 @@
 {
-  "name": "shopifyaccesstoken",
+  "name": "webcolon-shopify-access-token",
   "version": "1.0.0",
   "description": "shopify access token",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/webcolon/shopify-access-token/issues"
   },
-  "homepage": "https://github.com/webcolon/shopify-access-token#readme"
+  "homepage": "https://github.com/webcolon/shopify-access-token#readme",
+  "dependencies": {
+    "@shopify/shopify-api": "^5.2.0"
+  }
 }
